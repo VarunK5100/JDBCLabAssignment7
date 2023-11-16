@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author gauravvraii
+ * @author varun
  */
 public class Patient {
     private String Name;

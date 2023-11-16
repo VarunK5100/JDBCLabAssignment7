@@ -10,7 +10,7 @@ import util.DatabaseConnector;
 
 /**
  *
- * @author gauravvraii
+ * @author varun
  */
 public class formPanel extends javax.swing.JPanel {
 

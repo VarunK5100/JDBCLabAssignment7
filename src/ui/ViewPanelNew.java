@@ -23,7 +23,7 @@ import util.DatabaseConnector;
 
 /**
  *
- * @author gauravvraii
+ * @author varun
  */
 public class ViewPanelNew extends javax.swing.JPanel implements Printable {
 
